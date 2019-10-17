@@ -11,3 +11,6 @@ I used an if statement to determine wheter the array has an even or odd number o
 Then a for loop to iterate the new arraw and place the numbers in it
 
 ## Solution
+Whiteboard pictures:
+https://github.com/Alejandroid101/data-structures-and-algorithms-401c/blob/master/challenges/ArrayShift/20191017_111700.jpg?raw=true
+https://github.com/Alejandroid101/data-structures-and-algorithms-401c/blob/master/challenges/ArrayShift/20191017_111656.jpg?raw=true
