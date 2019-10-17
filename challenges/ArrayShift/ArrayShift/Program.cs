@@ -2,18 +2,19 @@
 
 namespace ArrayShift
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Code Challenges for 401 ASP.NET!");
 
-            int[] tryarr = { 1, 4, 7, 2, 6 };
+            /*int[] tryarr = { 1, 4, 7, 2, 6 };
             int trynumb = 15;
-            Console.WriteLine(insertShiftArray(tryarr, trynumb));
+            //int[] outPut = insertShiftArray(tryarr, trynumb);
+            Console.WriteLine(String.Join(", ", insertShiftArray(tryarr, trynumb)));*/
         }
 
-        public static Array insertShiftArray(int[] arr, int value)
+        public static int[] insertShiftArray(int[] arr, int value)
         {
             int length = arr.Length +1;
             int[] newArr = new int[length];
@@ -42,7 +43,6 @@ namespace ArrayShift
                 {
                     newArr[i] = arr[i - 1];
                 }
-                return newArr;
             }
             return newArr;
         }
