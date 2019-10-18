@@ -3,8 +3,9 @@
     "",
     "\\challenges",
     "\\challenges\\ArrayShift",
-    "\\challenges\\ArrayShift\\ArrayShift"
+    "\\challenges\\ArrayShift\\ArrayShift",
+    "\\challenges\\ArrayShift\\XUnitTestProject1"
   ],
-  "SelectedNode": "\\challenges\\ArrayShift\\ArrayShift\\Program.cs",
+  "SelectedNode": "\\challenges\\ArrayShift\\XUnitTestProject1\\UnitTest1.cs",
   "PreviewInSolutionExplorer": false
 }
