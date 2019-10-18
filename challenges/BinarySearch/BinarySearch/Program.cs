@@ -2,23 +2,22 @@
 
 namespace BinarySearch
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            int[] one = { 1, 2, 3, 4, 5, 6, 7 };
-            //int[] two = { 8, 13, 27, 55, 57 };
-            //int[] three = { 6, 66, 666, 6666 };
-            //int[] four = { };
+            /*int[] one = { 1, 2, 3, 4, 5, 6, 7 };
+            int[] two = { 8, 13, 27, 55, 57 };
+            int[] three = { 6, 66, 666, 6666 };
+            int[] four = { };
             int one1 = 3;
-            //int two2 = 57;
-            //int three3 = 69;
-            //int four4 = 100;
-            Console.WriteLine(BinarySearch(one, one1));
-
+            int two2 = 57;
+            int three3 = 69;
+            int four4 = 100;
+            Console.WriteLine(BinSearch(four, four4));*/
         }
 
-        public static int BinarySearch(int[] arr, int value)
+        public static int BinSearch(int[] arr, int value)
         {
             int len = arr.Length;
             int left = 0;

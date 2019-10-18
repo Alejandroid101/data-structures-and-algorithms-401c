@@ -4,8 +4,9 @@
     "\\challenges",
     "\\challenges\\ArrayShift",
     "\\challenges\\ArrayShift\\ArrayShift",
-    "\\challenges\\ArrayShift\\XUnitTestProject1"
+    "\\challenges\\BinarySearch",
+    "\\challenges\\BinarySearch\\BinarySearch"
   ],
-  "SelectedNode": "\\challenges\\ArrayShift\\XUnitTestProject1\\UnitTest1.cs",
+  "SelectedNode": "\\challenges\\BinarySearch\\BinarySearch\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
