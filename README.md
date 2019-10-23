@@ -12,8 +12,8 @@ Then a for loop to iterate the new arraw and place the numbers in it
 
 ## Solution
 Whiteboard pictures:
-[!Image 1](https://github.com/Alejandroid101/data-structures-and-algorithms-401c/blob/array-binary-search/assets/CH1ArrayShift1.jpg?raw=true)
-[!Image 1](https://github.com/Alejandroid101/data-structures-and-algorithms-401c/blob/array-binary-search/assets/CH1ArrayShift2.jpg?raw=true)
+![Image 1](https://github.com/Alejandroid101/data-structures-and-algorithms-401c/blob/array-binary-search/assets/CH1ArrayShift1.jpg?raw=true)
+![Image 1](https://github.com/Alejandroid101/data-structures-and-algorithms-401c/blob/array-binary-search/assets/CH1ArrayShift2.jpg?raw=true)
 
 
 # Challenge Summary for BinarySearch(CH2)
@@ -29,8 +29,23 @@ Used semantic variables and paid extra attention to whiteboard
 
 ## Solution
 Whiteboard pictures:
-[!Image 1](https://github.com/Alejandroid101/data-structures-and-algorithms-401c/blob/array-binary-search/assets/CH1BinaryShift.jpg?raw=true)
+![Image 1](https://github.com/Alejandroid101/data-structures-and-algorithms-401c/blob/array-binary-search/assets/CH1BinaryShift.jpg?raw=true)
 
+
+# Challenge Summary for LinkedLists(CH5 and 6)
+This challenge makes new nodes in 3 different way with 3 different methods.
+
+## Challenge Description
+1.-Append. Adds a new node to the end of the list
+2.-insertBefore. Adds a new node before the target node(if the value exists)
+3..insertAfter. Adds a new node after the target node(if the value exists)
+
+## Approach & Efficiency
+I struggled to make the logic work for this one, for a while I was not able to write the way it was supposed to.
+
+## Solution
+
+![Image 1]()
 
 
 
