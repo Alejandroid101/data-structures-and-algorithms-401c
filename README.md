@@ -45,7 +45,7 @@ I struggled to make the logic work for this one, for a while I was not able to w
 
 ## Solution
 
-![Image 1]()
+![Image 1](https://github.com/Alejandroid101/data-structures-and-algorithms-401c/blob/master/assets/CH5-6LinkedLists.jpg?raw=true)
 
 
 
