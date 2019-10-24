@@ -92,5 +92,37 @@ namespace LinkedList
             }
         }
 
+        public int selectFromEnd(int k)
+        {
+            Node newNode = new Node();
+            if (Head == null)
+            {
+                Head = newNode;
+            }
+            else
+            {
+                int posK = 0;
+                int counter = 0;
+                Node current = Head;
+                while (current.Next != null)
+                {
+                    current = current.Next;
+                    counter++;
+                }
+                posK = counter - k;
+                counter = 0;
+                while (current.Next != null)
+                {
+                    if (counter == posK)
+                    {
+                        Console.WriteLine($"value of k found: {current.Data}");
+                        return current.Data;
+                    }
+                    current = current.Next;
+                    counter++;
+                }
+            }
+        }
+
     }
 }
