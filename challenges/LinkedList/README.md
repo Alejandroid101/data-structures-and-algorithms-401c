@@ -16,5 +16,5 @@ Code challenge 6
 ![Image 1](https://github.com/Alejandroid101/data-structures-and-algorithms-401c/blob/master/assets/CH5-6LinkedLists.jpg?raw=true)
 
 Code Challenge 7
-![Image 1](https://github.com/Alejandroid101/data-structures-and-algorithms-401c/blob/master/assets/CH5-6LinkedLists.jpg?raw=true)
+![Image 1](https://github.com/Alejandroid101/data-structures-and-algorithms-401c/blob/master/assets/CH7LinkedLists.jpg?raw=true)
 
