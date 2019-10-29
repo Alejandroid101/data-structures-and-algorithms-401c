@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\challenges",
-    "\\challenges\\ArrayShift",
-    "\\challenges\\BinarySearch",
-    "\\challenges\\BinarySearch\\BinarySearch"
+    "\\challenges"
   ],
-  "SelectedNode": "\\challenges\\BinarySearch\\BinarySearch\\Program.cs",
+  "SelectedNode": "\\challenges\\LinkedList",
   "PreviewInSolutionExplorer": false
 }

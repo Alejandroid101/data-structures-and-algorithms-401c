@@ -121,6 +121,7 @@ namespace LinkedList
                     current = current.Next;
                     counter++;
                 }
+                return;
             }
         }
 
