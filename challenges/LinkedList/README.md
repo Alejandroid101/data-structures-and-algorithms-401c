@@ -13,12 +13,10 @@
 7.- ToStrong.- Turns all the values in a list into a string.
 
 ## Approach & Efficiency
-I struggled to make the logic work for this one, for a while I was not able to write the way it was supposed to.
+The 3 main methods for challenge 5 are there but an unknown system IO error is being thrown. Cant figure it out
 
 ## Solution
-Code challenge 6
 ![Image 1](https://github.com/Alejandroid101/data-structures-and-algorithms-401c/blob/master/assets/CH5-6LinkedLists.jpg?raw=true)
 
-Code Challenge 7
 ![Image 1](https://github.com/Alejandroid101/data-structures-and-algorithms-401c/blob/master/assets/CH7LinkedLists.jpg?raw=true)
 
