@@ -15,7 +15,7 @@ namespace LinkedList
             Node node4 = new Node(20);
             Node node5 = new Node(25);
 
-            linkedList.Head = node1;
+            list.Head = node1;
 
             node1.Next = node2;
             node2.Next = node3;
