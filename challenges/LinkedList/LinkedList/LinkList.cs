@@ -91,6 +91,41 @@ namespace LinkedList
                 current.Next = newNode;
             }
         }
+        //CodeChallenge 5
+        public void Insert(int value)
+        {
+            Node newNode = new Node(value);
+            newNode.Next = Head;
+            HEad = newNode;
+        }
+
+        public bool Includes(int value)
+        {
+            Node currentNode = Head;
+            while (currentNode != null)
+            {
+                if(currentNode.Data == value)
+                {
+                return  true;
+                }
+                currentNode = currentNode.Next;
+            }
+            return false;
+        }
+
+        public string ToString(int value)
+        {
+            Node currentNode = Head;
+            string allValues = "";
+            while(currentNode.Next != null)
+            {
+                allvalues += $"{currentNode.Data}, ";
+                currentNode = currentNode.Next;
+            }
+            allValues += currentNode.Data;
+            return allValues;
+
+        }
 
         public int selectFromEnd(int k)
         {
