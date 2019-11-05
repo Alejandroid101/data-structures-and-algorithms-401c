@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\challenges"
+    "\\challenges",
+    "\\challenges\\linked-list-ch5\\linked-list-ch5",
+    "\\challenges\\LinkedList\\LinkedList",
+    "\\challenges\\LL-Merge\\LL-Merge"
   ],
   "SelectedNode": "\\challenges\\LinkedList",
   "PreviewInSolutionExplorer": false
