@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\challenges",
-    "\\challenges\\linked-list-ch5\\linked-list-ch5",
-    "\\challenges\\LinkedList\\LinkedList",
-    "\\challenges\\LL-Merge\\LL-Merge"
+    "\\challenges\\BinaryTreeCh15",
+    "\\challenges\\BinaryTreeCh15\\BinaryTreeCh15"
   ],
-  "SelectedNode": "\\challenges\\LinkedList",
+  "SelectedNode": "\\challenges\\BinaryTreeCh15\\BinaryTreeCh15\\BinaryTreeCh15.csproj",
   "PreviewInSolutionExplorer": false
 }
