@@ -18,9 +18,9 @@ namespace BinaryTreeCh15
             Node<int> node2 = new Node<int>(8);
             Node<int> node3 = new Node<int>(15);
             Node<int> node4 = new Node<int>(16);
-            Node<int> node5 = new Node<int>(8);
-            Node<int> node6 = new Node<int>(8);
-            Node<int> node7 = new Node<int>(8);
+            Node<int> node5 = new Node<int>(6);
+            Node<int> node6 = new Node<int>(10);
+            Node<int> node7 = new Node<int>(4);
 
             tree.Root.LeftChild = node2;
             tree.Root.RightChild = node3;
