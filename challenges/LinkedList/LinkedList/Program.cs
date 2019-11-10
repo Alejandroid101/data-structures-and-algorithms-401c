@@ -21,13 +21,13 @@ namespace LinkedList
             node2.Next = node3;
             node3.Next = node4;
 
-            //list.Append(1);
-            //list.Append(2);
-            //list.Append(3);
-            //list.Append(4);
-            //list.Append(5);
+            list.Append(1);
+            list.Append(2);
+            list.Append(3);
+            list.Append(4);
+            list.Append(5);
 
-            //Console.WriteLine(list.SelectFromEnd(3));
+            Console.WriteLine(list.SelectFromEnd(3));
         }
     }
 }

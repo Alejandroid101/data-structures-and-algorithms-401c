@@ -2,9 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\challenges",
-    "\\challenges\\BinaryTreeCh15",
-    "\\challenges\\BinaryTreeCh15\\BinaryTreeCh15"
+    "\\challenges\\BinaryTreeCh15\\BinaryTreeCh15",
+    "\\challenges\\linked-list-ch5\\linked-list-ch5",
+    "\\challenges\\LinkedList",
+    "\\challenges\\LinkedList\\LinkedList",
+    "\\challenges\\QueueWithStacks",
+    "\\challenges\\QueueWithStacks\\QueueWithStacks"
   ],
-  "SelectedNode": "\\challenges\\BinaryTreeCh15\\README.md",
+  "SelectedNode": "\\challenges\\LinkedList\\LinkedList\\Node.cs",
   "PreviewInSolutionExplorer": false
 }
