@@ -1,14 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\challenges",
-    "\\challenges\\BinaryTreeCh15\\BinaryTreeCh15",
-    "\\challenges\\linked-list-ch5\\linked-list-ch5",
-    "\\challenges\\LinkedList",
-    "\\challenges\\LinkedList\\LinkedList",
-    "\\challenges\\QueueWithStacks",
-    "\\challenges\\QueueWithStacks\\QueueWithStacks"
+    "\\challenges"
   ],
-  "SelectedNode": "\\challenges\\LinkedList\\LinkedList\\Node.cs",
+  "SelectedNode": "\\challenges",
   "PreviewInSolutionExplorer": false
 }
