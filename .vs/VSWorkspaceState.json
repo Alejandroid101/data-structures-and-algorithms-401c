@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\challenges"
+    "\\challenges",
+    "\\challenges\\LinkedList\\LinkedList",
+    "\\challenges\\RepeatedWord\\RepeatedWord"
   ],
-  "SelectedNode": "\\challenges",
+  "SelectedNode": "\\challenges\\RepeatedWord",
   "PreviewInSolutionExplorer": false
 }
